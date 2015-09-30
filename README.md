@@ -13,3 +13,8 @@ Test02
 :princess::princess::princess::princess::princess::princess::princess:
 
 :man::man::man::man::man::man::man:
+
+:skull::skull::skull:
+:skull::skull:
+:skull::skull::skull::skull:
+:skull::skull::skull:
