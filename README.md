@@ -18,3 +18,5 @@ Test02
 :skull::skull:
 :skull::skull::skull::skull:
 :skull::skull::skull:
+
+/play 56k
