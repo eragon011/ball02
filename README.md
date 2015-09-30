@@ -1,3 +1,4 @@
 # ball02
 Test02
-:fu:
+/play 56k
+/play 56k
